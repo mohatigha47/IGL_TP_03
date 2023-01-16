@@ -23,7 +23,7 @@ public class Book {
         System.out.println("Book Author:"+ auther);
         System.out.println("Book ISBN:" + ISBN);
         System.out.println("Book Publisher:" + publisher);
-        System.out.println("modified");
+        System.out.println("modified one time");
 	}
 
 	public void Reservation_status() { }
